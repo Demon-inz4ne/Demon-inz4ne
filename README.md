@@ -1,53 +1,126 @@
-<h1 align="center">Hi 👋, I'm Janith Geeshan</h1>
+<div align="center">
 
-<p align="center"> <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="janith-geeshan" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Janith%20Geeshan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate&descSize=17&descAlignY=58" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+World!;Code.+Create.+Level+Up.;Java+%7C+PHP+%7C+JavaScript+%7C+MySQL;Turning+Ideas+Into+Reality!" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Janith..!;I'm+a+learning+developer🙂;Passion+is+my+motivation+🧑‍💻💖;)](https://git.io/typing-svg)
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=Demon-inz4ne&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=janith-geeshan&label=Profile%20views&color=0e75b6&style=flat" alt="janith-geeshan" /> </p>
-
-- 🎓 I’m currently learning at <b>Java Institute for Advanced Technology.</b>
-
-- 📫 How to reach me :- **itzjanithgeeshan@gmail.com**
-
-- ⚡ Fun fact :- **You can call me Janiya 😜**
-
-- ---
-
-<h3 align="center">🔗 Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/janiyaa.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janiyaa.99" height="30" width="40" /></a> 
-<a href="https://instagram.com/__janith.zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__janith.zz" height="30" width="40" /></a> 
-<a href="https://www.youtube.com/c/janith_geeshan-j7g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="janith_geeshan-j7g" height="30" width="40" /></a>
-</p>
-
----
-<h3 align="center">🔎 Languages and Tools</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-
-
-<br />
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-
-
-<br><br><br><br><br><br><br><br><br>
-
----
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=janith-geeshan&show_icons=true&theme=radical) <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janith-geeshan&theme=radical)](https://git.io/streak-stats) <br>
+</div>
 
 
 ---
 
-<h2 align="center">Thank You for visiting my profile  <3 </h2>
-<p align="center">Feel free to check and 🌟 this repo.........🥹🫶 </p>
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering undergraduate at **Java Institute for Advanced Technology, Sri Lanka**
+- 💻 Interested in **Full-Stack Development, Desktop Applications and UI Design**
+- 🌱 Currently improving my **Java, PHP, JavaScript and MySQL** skills
+- 🛠️ Enjoy building practical software and learning through real projects
+- 🎯 Working towards becoming a professional Software Engineer
+- ⚡ Fun fact: You can call me **Janiya!** 😜
+
+---
+
+## 🚀 Languages & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,bootstrap,python&theme=dark" alt="Programming languages and technologies" />
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,idea,figma&theme=dark" alt="Development tools" />
+
+</div>
+
+**Other tools I work with:** Apache NetBeans, HeidiSQL, Jaspersoft Studio, Java Swing and JDBC.
+
+---
+
+## 🌟 Featured Project
+
+<div align="center">
+
+### 🎓 EduTrack
+**Student Academic Performance Management System**
+
+A Java Swing desktop application developed to help a Commerce teacher manage student records, examination marks, academic rankings and printable reports.
+
+**Technologies:** Java 17 · Java Swing · MySQL · JDBC · JasperReports · Launch4j
+
+[![EduTrack Repository](https://img.shields.io/badge/View_EduTrack_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Demon-inz4ne/EduTrack)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Demon-inz4ne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demon-inz4ne&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+</div>
+
+> GitHub statistics are generated by a third-party service. Private contributions may not be fully reflected.
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Demon-inz4ne&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Demon-inz4ne/Demon-inz4ne/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+> The snake animation requires a GitHub Actions workflow that generates the SVG file. Until that workflow is configured, this image may not appear.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Demon-inz4ne">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://instagram.com/__janith.zz">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://fb.com/janiyaa.99">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<a href="mailto:itzjanithgeeshan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Keep learning. Keep building. Never stop improving."
+
+**Thanks for visiting my GitHub profile!** 💙
+
+</div>
