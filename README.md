@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/Demon-inz4ne/Demon-inz4ne/main/assets/anime-banner.png" alt="Janith Geeshan Anime Banner" />
 
-<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+World!;Code.+Create.+Level+Up.;Java+%7C+PHP+%7C+JavaScript+%7C+MySQL;Turning+Ideas+Into+Reality!" />
 
