@@ -8,6 +8,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=Demon-inz4ne&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 
+
+
+<br/>
+
+<img
+  src="./assets/samurai.gif"
+  alt="Anime Samurai Animation"
+  width="440"
+/>
+
+<p><i>⚔️ Code. Create. Conquer.</i></p>
+
+
+
 </div>
 
 
