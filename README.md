@@ -172,7 +172,7 @@ Every project gives me a chance to learn something new and improve my skills.
   <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
-<a href="mailto:itzjanithgeeshan@gmail.com">
+<a href="mailto:iamjanithgeeshan@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
