@@ -1,71 +1,122 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Janith%20Geeshan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate&descSize=17&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:0f0c29,50:302b63,100:24243e&text=JANITH%20GEESHAN&fontColor=ffffff&fontSize=45&fontAlignY=37&desc=Software%20Engineering%20Undergraduate&descAlignY=59&descSize=18&animation=fadeIn&section=header" alt="Janith Geeshan banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+World!;Code.+Create.+Level+Up.;Java+%7C+PHP+%7C+JavaScript+%7C+MySQL;Turning+Ideas+Into+Reality!" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Demon-inz4ne&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+World!;Code.+Create.+Level+Up.;Java+%7C+PHP+%7C+JavaScript+%7C+MySQL;A+Developer+With+An+Anime+Soul;The+Journey+Continues..." alt="Animated introduction" />
 
 <br/>
 
-<img
-  src="./assets/samurai.gif"
-  alt="Anime Samurai Animation"
-  width="440"
-/>
+<img src="https://komarev.com/ghpvc/?username=Demon-inz4ne&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
 
-<p><i>⚔️ Code. Create. Conquer.</i></p>
+<img src="https://img.shields.io/github/followers/Demon-inz4ne?label=FOLLOWERS&style=for-the-badge&color=6366f1&logo=github" alt="GitHub followers" />
 
+<br/><br/>
 
+<img src="./assets/samurai.gif" width="440" alt="Samurai anime animation" />
+
+<h3>⚔️ Code. Create. Level Up.</h3>
+
+<i>"Every master was once a beginner."</i>
 
 </div>
 
+---
+
+## 🥷 The Developer Behind the Screen
+
+```bash
+$ whoami
+Janith Geeshan
+
+$ location
+Sri Lanka
+
+$ role
+Software Engineering Undergraduate
+
+$ interests
+Full-Stack Development | Java | UI Design
+
+$ current_quest
+Learning, building, and improving every day
+
+$ alias
+Janiya 😎
+```
+
+### 👨‍💻 About Me
+
+- 🎓 Studying **Software Engineering** at Java Institute for Advanced Technology, Sri Lanka.
+- 💻 Interested in **Full-Stack Development, Desktop Applications and UI Design**.
+- 🌱 Improving my skills in **Java, PHP, JavaScript and MySQL**.
+- 🛠️ I enjoy turning ideas into useful applications.
+- 🎮 I like gaming, anime, and creative technology.
+- 🎯 My goal is to become a professional Software Engineer.
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Software Engineering undergraduate at **Java Institute for Advanced Technology, Sri Lanka**
-- 💻 Interested in **Full-Stack Development, Desktop Applications and UI Design**
-- 🌱 Currently improving my **Java, PHP, JavaScript and MySQL** skills
-- 🛠️ Enjoy building practical software and learning through real projects
-- 🎯 Working towards becoming a professional Software Engineer
-- ⚡ Fun fact: You can call me **Janiya!** 😜
-
----
-
-## 🚀 Languages & Technologies
+## ⚡ Developer Skill Tree
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,bootstrap,python&theme=dark" alt="Programming languages and technologies" />
+### 🗡️ Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,php,js,python&theme=dark" alt="Programming languages" />
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="Web development" />
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
 
 ### 🛠️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,idea,figma&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark" alt="Developer tools" />
+
+<br/>
+
+**Also working with:** Java Swing · JDBC · Apache NetBeans · HeidiSQL · JasperReports
 
 </div>
 
-**Other tools I work with:** Apache NetBeans, HeidiSQL, Jaspersoft Studio, Java Swing and JDBC.
+---
+
+## 🎮 My Development Journey
+
+| Quest | Focus |
+|:---|:---|
+| ☕ Java & Object-Oriented Programming | Strengthening programming skills |
+| 🌐 Full-Stack Web Development | Learning frontend and backend |
+| 🗄️ Database Design | Building database-driven applications |
+| 🎨 UI Design | Creating simple and useful interfaces |
+| 🚀 New Technologies | Exploring and building new things |
+
+> I believe the best way to learn programming is to build something, make mistakes, and keep improving.
 
 ---
 
-## 🌟 Featured Project
+## ⚔️ Building My Digital World
 
 <div align="center">
 
-### 🎓 EduTrack
-**Student Academic Performance Management System**
+### 🚀 Learning. Creating. Evolving.
 
-A Java Swing desktop application developed to help a Commerce teacher manage student records, examination marks, academic rankings and printable reports.
+I enjoy working on different kinds of software, from simple experiments to complete applications.
 
-**Technologies:** Java 17 · Java Swing · MySQL · JDBC · JasperReports · Launch4j
+Every project gives me a chance to learn something new and improve my skills.
 
-[![EduTrack Repository](https://img.shields.io/badge/View_EduTrack_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Demon-inz4ne/EduTrack)
+<br/>
+
+<a href="https://github.com/Demon-inz4ne?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+</a>
+
+<br/><br/>
+
+<i>"One project at a time. One level higher."</i> ⚡
 
 </div>
 
@@ -75,35 +126,29 @@ A Java Swing desktop application developed to help a Commerce teacher manage stu
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Demon-inz4ne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Demon-inz4ne&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demon-inz4ne&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demon-inz4ne&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-</div>
+<br/>
 
-> GitHub statistics are generated by a third-party service. Private contributions may not be fully reflected.
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Demon-inz4ne&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Demon-inz4ne&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Demon-inz4ne/Demon-inz4ne/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demon-inz4ne/Demon-inz4ne/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Demon-inz4ne/Demon-inz4ne/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Demon-inz4ne/Demon-inz4ne/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+</picture>
 
 </div>
-
-> The snake animation requires a GitHub Actions workflow that generates the SVG file. Until that workflow is configured, this image may not appear.
 
 ---
 
@@ -133,8 +178,10 @@ A Java Swing desktop application developed to help a Commerce teacher manage stu
 
 <div align="center">
 
-### ⚡ "Keep learning. Keep building. Never stop improving."
+### ⚔️ THE JOURNEY CONTINUES...
 
-**Thanks for visiting my GitHub profile!** 💙
+**"Keep learning. Keep building. Never stop improving."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Purple wave footer" />
 
 </div>
