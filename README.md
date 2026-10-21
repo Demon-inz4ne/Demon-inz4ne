@@ -1,23 +1,16 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:0f0c29,50:302b63,100:24243e&text=JANITH%20GEESHAN&fontColor=ffffff&fontSize=45&fontAlignY=37&desc=Software%20Engineering%20Undergraduate&descAlignY=59&descSize=18&animation=fadeIn&section=header" alt="Janith Geeshan banner" />
+<img width="100%" src="https://raw.githubusercontent.com/Demon-inz4ne/Demon-inz4ne/main/assets/anime-banner.png" alt="Janith Geeshan Anime Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+World!;Code.+Create.+Level+Up.;Java+%7C+PHP+%7C+JavaScript+%7C+MySQL;A+Developer+With+An+Anime+Soul;The+Journey+Continues..." alt="Animated introduction" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+World!;Code.+Create.+Level+Up.;Java+%7C+PHP+%7C+JavaScript+%7C+MySQL;Turning+Ideas+Into+Reality!" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Demon-inz4ne&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Demon-inz4ne&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/Demon-inz4ne?label=FOLLOWERS&style=for-the-badge&color=6366f1&logo=github" alt="GitHub followers" />
-
-<br/><br/>
-
-<img src="./assets/samurai.gif" width="440" alt="Samurai anime animation" />
-
-<h3>⚔️ Code. Create. Level Up.</h3>
-
-<i>"Every master was once a beginner."</i>
+<br/>
 
 </div>
 
@@ -46,6 +39,18 @@ Janiya 😎
 ```
 
 ### 👨‍💻 About Me
+
+<br/>
+
+<div align="center">
+<img
+  src="https://raw.githubusercontent.com/Demon-inz4ne/Demon-inz4ne/main/assets/samurai.gif"
+  alt="Anime Samurai Animation"
+  width="440"
+/>
+
+<p><i>⚔️ Code. Create. Conquer.</i></p>
+</div>
 
 - 🎓 Studying **Software Engineering** at Java Institute for Advanced Technology, Sri Lanka.
 - 💻 Interested in **Full-Stack Development, Desktop Applications and UI Design**.
