@@ -89,6 +89,7 @@ Janiya 😎
 ---
 
 ## 🎮 My Development Journey
+<div align="center">
 
 | Quest | Focus |
 |:---|:---|
@@ -97,7 +98,7 @@ Janiya 😎
 | 🗄️ Database Design | Building database-driven applications |
 | 🎨 UI Design | Creating simple and useful interfaces |
 | 🚀 New Technologies | Exploring and building new things |
-
+</div>
 > I believe the best way to learn programming is to build something, make mistakes, and keep improving.
 
 ---
