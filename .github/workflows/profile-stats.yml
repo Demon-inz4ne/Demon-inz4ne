@@ -49,9 +49,7 @@ jobs:
       - name: Generate contribution streak
         uses: zients/github-readme-streak-stats@v2
         with:
-          user: Demon-inz4ne
-          theme: tokyonight
-          hide_border: true
+          options: user=Demon-inz4ne&theme=tokyonight&hide_border=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
