@@ -131,15 +131,17 @@ Every project gives me a chance to learn something new and improve my skills.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Demon-inz4ne&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="175" src="./profile/stats.svg" alt="GitHub stats — Tokyo Night" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demon-inz4ne&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="175" src="./profile/top-langs.svg" alt="Top languages — Tokyo Night" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Demon-inz4ne&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="./profile/streak.svg" alt="GitHub contribution streak — Tokyo Night" />
 
 </div>
+
+<!-- Generated automatically by .github/workflows/profile-stats.yml. -->
 
 ---
 
